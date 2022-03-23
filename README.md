@@ -6,13 +6,13 @@
 
 ![Mastering JavaScript Functional Programming - Second Edition](assets/cover.png)
 
-书名：**Mastering JavaScript Functional Programming - Second Edition**
+Title：**Mastering JavaScript Functional Programming - Second Edition**
 
-作者：***Federico Kereki***
+Author：***Federico Kereki***
 
-出版：**Packt**，2020.01
+Publication：**Packt**，2020.01
 
-简介：
+Introduction：
 
 Functional programming is a paradigm for developing software with better performance. It helps you write concise and testable code. To help you take your programming skills to the next level, this comprehensive book will assist you in harnessing the capabilities of functional programming with JavaScript and writing highly maintainable and testable web and server apps using functional JavaScript.
 
