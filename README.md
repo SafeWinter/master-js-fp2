@@ -29,8 +29,8 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | :--: | :---------------------------------------: | :----------------------: |
 | Ch01 |     [Becoming Functional](./Ch01.md)      |    :heavy_check_mark:    |
 | Ch02 |    [Thinking Functionally](./Ch02.md)     |    :heavy_check_mark:    |
-| Ch03 | [Starting Out with Functions](./Ch03.md)  | :hourglass_flowing_sand: |
-| Ch04 |      [Behaving Properly](./Ch04.md)       |      :orange_book:       |
+| Ch03 | [Starting Out with Functions](./Ch03.md)  |    :heavy_check_mark:    |
+| Ch04 |      [Behaving Properly](./Ch04.md)       | :hourglass_flowing_sand: |
 | Ch05 |  [Programming Declaratively](./Ch05.md)   |      :orange_book:       |
 | Ch06 |     [Producing Functions](./Ch06.md)      |      :orange_book:       |
 | Ch07 |    [Transforming Functions](./Ch07.md)    |      :orange_book:       |
@@ -39,20 +39,5 @@ Status available：:heavy_check_mark: (Completed) | :hourglass_flowing_sand: (Wo
 | Ch10 |       [Ensuring Purity](./Ch10.md)        |      :orange_book:       |
 | Ch11 | [Implementing Design Patterns](./Ch11.md) |      :orange_book:       |
 | Ch12 |  [Building Better Containers](./Ch12.md)  |      :orange_book:       |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
